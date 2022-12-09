@@ -21,7 +21,7 @@
     },
     "dependencies": {
         "admin-lte": "^3.0.0-alpha.2",
-        "express": "^4.16.3",
+        "express": "^4.17.3",
         "ioredis": "^3.2.2",
         "socket.io": "^2.1.1"
     }
